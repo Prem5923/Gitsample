@@ -1,4 +1,5 @@
 Have created text file to push github
+Git Commands
 git add
 git clone
 git comit
