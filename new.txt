@@ -1,0 +1,5 @@
+Have created text file to push github
+git add
+git clone
+git comit
+git pushgit commit -m "Added new.txt file"
