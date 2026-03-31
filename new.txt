@@ -1,7 +1,11 @@
 Have created text file to push github
 Git Commands
+git config --global user.email
 git add
 git clone
 git comit
 git push
 git pull
+git init
+git branch
+git checkout
