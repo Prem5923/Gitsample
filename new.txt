@@ -4,11 +4,11 @@ github
 git config --global user.email
 git add
 git clone
-git comit
+git commit
 git push
 git pull
 git init
 git branch
 git checkout
-
+GIT
 Added
